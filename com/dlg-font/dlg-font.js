@@ -1,6 +1,4 @@
 /* exported $dlgFont */
-/* global comList, np, Dialog: true */
-/* eslint no-console: ["error", { allow: ["log"]   }] */
 let $dlgFont = new Dialog('font');
 
 ((dlg) => {

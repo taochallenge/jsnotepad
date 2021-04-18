@@ -1,4 +1,3 @@
-/* global np: true */
 /* exported comList */
 function comList() {
   let $comList = $(`

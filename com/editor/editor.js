@@ -1,4 +1,3 @@
-/* global np: true */
 /* exported $editor */
 let $editor = (() => {
   let $DOM = $(`
